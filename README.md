@@ -27,9 +27,8 @@
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
 
-## GitHub活跃度
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixiang-coder)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixiang-coder&layout=compact&hide=javascript)
+## GitHub活跃度✨
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lixiang-coder&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiang-coder&hide_title=true&hide=javascript&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ## 交个朋友 👬🏻
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
