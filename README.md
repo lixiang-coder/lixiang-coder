@@ -15,13 +15,14 @@
 
 
 ## 技术栈
-![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
-![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
-![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
-![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/Java-4C7491?logo=Java&logoColor=fff&link=https%3A%2F%2Fwww.java.com%2Fzh-CN%2F)
+![Static Badge](https://img.shields.io/badge/Spring-5FB832?logo=Spring&logoColor=fff&link=https%3A%2F%2Fspring.io%2F)
+![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff&link=https%3A%2F%2Fwww.docker.com%2F)
+![Static Badge](https://img.shields.io/badge/Linux-%23A5C0FF?logo=Linux&logoColor=fff&link=https%3A%2F%2Fwww.linux.org%2F)
+![Static Badge](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=fff&link=https%3A%2F%2Fwww.mysql.com%2F)
+![Static Badge](https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=fff&link=https%3A%2F%2Fredis.io%2F)
+![Static Badge](https://img.shields.io/badge/Git-E84E31?logo=Git&logoColor=fff&link=https%3A%2F%2Fgit-scm.com%2F)
+
 
 
 <!--
