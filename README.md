@@ -17,12 +17,16 @@
 ## 技术栈
 ![Static Badge](https://img.shields.io/badge/Java-4C7491?logo=Java&logoColor=fff&link=https%3A%2F%2Fwww.java.com%2Fzh-CN%2F)
 ![Static Badge](https://img.shields.io/badge/Spring-5FB832?logo=Spring&logoColor=fff&link=https%3A%2F%2Fspring.io%2F)
+![Static Badge](https://img.shields.io/badge/Spring--boot-%236DB33F?logo=Springboot&logoColor=fff&link=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot)
+![Static Badge](https://img.shields.io/badge/Spring--cloud-%236DB33F?logo=SpringCloud&logoColor=fff&link=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-cloud)
+![Static Badge](https://img.shields.io/badge/Mybatis-%23D40000?logo=mybatis&logoColor=fff&link=https%3A%2F%2Fmybatis.net.cn%2Fgetting-started.html)
+![Static Badge](https://img.shields.io/badge/Mybatis--Plus-%231E90FF?logo=mybatisplus&logoColor=fff&link=https%3A%2F%2Fbaomidou.com%2F)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff&link=https%3A%2F%2Fwww.docker.com%2F)
 ![Static Badge](https://img.shields.io/badge/Linux-%23A5C0FF?logo=Linux&logoColor=fff&link=https%3A%2F%2Fwww.linux.org%2F)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=fff&link=https%3A%2F%2Fwww.mysql.com%2F)
 ![Static Badge](https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=fff&link=https%3A%2F%2Fredis.io%2F)
 ![Static Badge](https://img.shields.io/badge/Git-E84E31?logo=Git&logoColor=fff&link=https%3A%2F%2Fgit-scm.com%2F)
-
+![Static Badge](https://img.shields.io/badge/Maven-%23003063?logo=maven&logoColor=fff&link=https%3A%2F%2Fmaven.apache.org%2F)
 
 
 <!--
