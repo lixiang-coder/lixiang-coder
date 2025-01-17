@@ -7,7 +7,7 @@
 
 
 ## 社交主页
-- 个人博客：https://xzynet.com.cn/
+- 个人博客：https://xzynet.com.cn/（已下线）
 - CSDN：https://blog.csdn.net/XZY__one?type=blog
 - 掘金：https://juejin.cn/user/3771762893654412
 - 牛客：https://www.nowcoder.com/users/492594589
